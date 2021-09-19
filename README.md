@@ -35,5 +35,5 @@ This crate generates pseudorandom data extremely fast in 512bit blocks. The outp
 This crate makes no guarantees about:
 
  - Correctness with regards to the original ChaCha8 implementation / specification
- - Cryptographical security
+ - Cryptographic security
 
